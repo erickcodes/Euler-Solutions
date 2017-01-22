@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479116358 source:c:\users\erick rivera\documents\projects\eproblem12\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+
